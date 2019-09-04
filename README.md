@@ -1,16 +1,20 @@
 # vim_setting
 
-mac安装vim
+1. mac安装vim
 
 brew install vim
 brew install macvim
 
 
-配置.vimrc文件
+2. 生成.vimrc文件
 
 cp  /usr/share/vim/vimrc  ~/.vimrc
 
+3. 插件管理
 
-常用插件管理器vundle
+https://github.com/VundleVim/Vundle.vim
 
-git clone https://github.com/gmarik/vundle.git  ~/.vim/bundle/Vundle.vim
+4. 配色方案
+
+https://github.com/altercation/solarized
+
